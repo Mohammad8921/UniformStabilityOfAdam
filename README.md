@@ -6,5 +6,5 @@
 * We used our new loss function in image and node classification in order to stabilize the output models and increase their accuarcy.
 ## Paper
 * An original paper contains the theorems, proofs, and experiments on age estimation has been accepted for publication in Amirkabir Journal of Mathematics and Computing (AJMC);
-* Published article: https://ajmc.aut.ac.ir/article_5213.html;
+* Article on the journal website: https://ajmc.aut.ac.ir/article_5213.html;
 * PDF on arxiv: https://arxiv.org/abs/2303.16464.
