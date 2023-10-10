@@ -2,7 +2,7 @@
 ## Abstract
 * We theoretically connected the Lipschitz constant and maximum value of a loss function to the generalization error of deep learning models trained by Adam and AdamW optimizers under the uniform stability theory.
 * Using the theoretical results, we proposed a novel loss function for training deep classification models to improve generalization performance and overcome the over-fitting issue.
-* We assessed our theoretical results in age estimation.
+* We assessed our theorems in human age estimation based on face images.
 * We trained deep neural networks using our new loss function in image and node classification problems in order to stabilize the output models and increase their accuarcy.
 ## Paper
 * An original paper contains the theorems, proofs, and experiments on age estimation has been accepted for publication in Amirkabir Journal of Mathematics and Computing (AJMC);
