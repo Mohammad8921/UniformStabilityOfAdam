@@ -1,7 +1,7 @@
 # Uniform Stability of Adam Algorithm and its Effect on The Generalization Error of Deep Neural Networks
 ## Info
 This repo contains all of the codes of my master theoretical thesis supervised by [Dr. Amin Gheibi](https://scholar.google.ca/citations?user=7Eng5oAAAAAJ&hl=en), conducted at Amirkabir University of Technology.
-\\
+<br>
 The tools have been used:
 * Python 3.7.8
 * SciPy 1.7.3
